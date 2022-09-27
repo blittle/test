@@ -900,10 +900,10 @@
     "@shopify/cli-kit" "3.13.1"
     "@shopify/plugin-ngrok" "^3.13.1"
 
-"@shopify/hydrogen@0.0.0-unstable-20220921160653":
-  version "0.0.0-unstable-20220921160653"
-  resolved "https://registry.yarnpkg.com/@shopify/hydrogen/-/hydrogen-0.0.0-unstable-20220921160653.tgz#2b146a30cb2079e305902213a315ec5944f3aade"
-  integrity sha512-1gWgMugnjDoisoKI2hcCgxvyoYE0ASUVOy+/ra3czL75TnagYws2JYevPJPxBfmUST0wXSwyfBZnVqnBf7Vmrw==
+"@shopify/hydrogen@0.0.0-unstable-20220927001835":
+  version "0.0.0-unstable-20220927001835"
+  resolved "https://registry.yarnpkg.com/@shopify/hydrogen/-/hydrogen-0.0.0-unstable-20220927001835.tgz#08c0b11ea6899019003d2d904df521bc2644d300"
+  integrity sha512-yHIqziC+KL009833OAqvAK0N95Uv16dXPwe4+Sqj/wNBPZUUnAns1mjIXNmSZ9KlXBwHX2+sbXXIhXg3qfs19Q==
   dependencies:
     "@vitejs/plugin-react" "^1.3.0"
     "@xstate/fsm" "^2.0.0"
